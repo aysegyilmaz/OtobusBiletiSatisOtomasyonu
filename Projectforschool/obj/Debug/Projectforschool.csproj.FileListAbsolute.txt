@@ -1,0 +1,63 @@
+C:\Users\User\Desktop\Projectforschool\Projectforschool\bin\Debug\Projectforschool.exe.config
+C:\Users\User\Desktop\Projectforschool\Projectforschool\bin\Debug\Projectforschool.exe
+C:\Users\User\Desktop\Projectforschool\Projectforschool\bin\Debug\Projectforschool.pdb
+C:\Users\User\Desktop\Projectforschool\Projectforschool\obj\Debug\Projectforschool.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projectforschool\Projectforschool\obj\Debug\Projectforschool.Form1.resources
+C:\Users\User\Desktop\Projectforschool\Projectforschool\obj\Debug\Projectforschool.Form2.resources
+C:\Users\User\Desktop\Projectforschool\Projectforschool\obj\Debug\Projectforschool.Form3.resources
+C:\Users\User\Desktop\Projectforschool\Projectforschool\obj\Debug\Projectforschool.Properties.Resources.resources
+C:\Users\User\Desktop\Projectforschool\Projectforschool\obj\Debug\Projectforschool.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Projectforschool\Projectforschool\obj\Debug\Projectforschool.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projectforschool\Projectforschool\obj\Debug\Projectforschool.exe
+C:\Users\User\Desktop\Projectforschool\Projectforschool\obj\Debug\Projectforschool.pdb
+C:\Users\User\Desktop\Projectforschool\Projectforschool\obj\Debug\Projectforschool.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Projectforschool\Projectforschool\obj\Debug\Projectforschool.Form4.resources
+C:\Users\berka\Desktop\projects\otobuss\Projectforschool\obj\Debug\Projectforschool.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\projects\otobuss\Projectforschool\obj\Debug\Projectforschool.csproj.SuggestedBindingRedirects.cache
+C:\Users\berka\Desktop\projects\otobuss\Projectforschool\obj\Debug\Projectforschool.exe
+C:\Users\berka\Desktop\projects\otobuss\Projectforschool\obj\Debug\Projectforschool.pdb
+C:\Users\berka\Desktop\projects\otobuss\Projectforschool\bin\Debug\Projectforschool.exe.config
+C:\Users\berka\Desktop\projects\otobuss\Projectforschool\bin\Debug\Projectforschool.exe
+C:\Users\berka\Desktop\projects\otobuss\Projectforschool\bin\Debug\Projectforschool.pdb
+C:\Users\berka\Desktop\projects\otobuss\Projectforschool\obj\Debug\Projectforschool.Form1.resources
+C:\Users\berka\Desktop\projects\otobuss\Projectforschool\obj\Debug\Projectforschool.Form2.resources
+C:\Users\berka\Desktop\projects\otobuss\Projectforschool\obj\Debug\Projectforschool.Form3.resources
+C:\Users\berka\Desktop\projects\otobuss\Projectforschool\obj\Debug\Projectforschool.Form4.resources
+C:\Users\berka\Desktop\projects\otobuss\Projectforschool\obj\Debug\Projectforschool.Form5.resources
+C:\Users\berka\Desktop\projects\otobuss\Projectforschool\obj\Debug\Projectforschool.Properties.Resources.resources
+C:\Users\berka\Desktop\projects\otobuss\Projectforschool\obj\Debug\Projectforschool.csproj.GenerateResource.cache
+C:\Users\berka\Desktop\projects\otobuss\Projectforschool\obj\Debug\Projectforschool.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\bin\Debug\Projectforschool.exe.config
+C:\Users\HP\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\bin\Debug\Projectforschool.exe
+C:\Users\HP\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\bin\Debug\Projectforschool.pdb
+C:\Users\HP\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\obj\Debug\Projectforschool.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\obj\Debug\Projectforschool.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\obj\Debug\Projectforschool.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\obj\Debug\Projectforschool.Form2.resources
+C:\Users\HP\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\obj\Debug\Projectforschool.Form3.resources
+C:\Users\HP\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\obj\Debug\Projectforschool.Form4.resources
+C:\Users\HP\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\obj\Debug\Projectforschool.Form5.resources
+C:\Users\HP\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\obj\Debug\Projectforschool.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\obj\Debug\Projectforschool.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\obj\Debug\Projectforschool.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\obj\Debug\Projectforschool.exe
+C:\Users\HP\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\obj\Debug\Projectforschool.pdb
+C:\Users\HP\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\obj\Debug\Projectforschool.Form6.resources
+C:\Users\HP\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\bin\Debug\Program.cs
+C:\Users\User\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\bin\Debug\Program.cs
+C:\Users\User\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\bin\Debug\Projectforschool.exe.config
+C:\Users\User\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\bin\Debug\Projectforschool.exe
+C:\Users\User\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\bin\Debug\Projectforschool.pdb
+C:\Users\User\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\obj\Debug\Projectforschool.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\obj\Debug\Projectforschool.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\obj\Debug\Projectforschool.Form1.resources
+C:\Users\User\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\obj\Debug\Projectforschool.Form2.resources
+C:\Users\User\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\obj\Debug\Projectforschool.Form3.resources
+C:\Users\User\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\obj\Debug\Projectforschool.Form4.resources
+C:\Users\User\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\obj\Debug\Projectforschool.Form5.resources
+C:\Users\User\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\obj\Debug\Projectforschool.Form6.resources
+C:\Users\User\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\obj\Debug\Projectforschool.Properties.Resources.resources
+C:\Users\User\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\obj\Debug\Projectforschool.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\obj\Debug\Projectforschool.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\obj\Debug\Projectforschool.exe
+C:\Users\User\OneDrive\Masaüstü\Projectforschool (1)\Projectforschool\obj\Debug\Projectforschool.pdb
